@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Меня зовут Андрей
 
-<!--
-**brittaju/brittaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Я разработчик Java, стремлюсь к созданию надежных и чистых решений. Люблю изучать архитектуру и работать в команде (есть соответствующий опыт). Я стремлюсь к постоянному росту и улучшению качества кода.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- ☕ **Java, C**
+- 🧱 **Spring Boot, Spring MVC, Spring Security, Spring Data**
+- 🗄️ **PostgreSQL, MySQL**
+- 📦 **Maven, Gradle**
+- ⚙️ **CI/CD: GitHub Actions, GitLab CI**
+
+---
+
+## 📂 Projects
+
+### 🔹 [Blue-vs-Pink](https://github.com/brittaju/Blue-vs-Pink)
+> Реализация REST API для игры против ИИ или другого человека
+- **Stack:** Java, JavaScript, HTML, Spring Boot, PostgreSQL, Hibernate, JWT
+- JWT-аутентификация и авторизация
+- CRUD-операции на базе Spring Data JPA и Hibernate
+- Реализация игры против ИИ с помощью алгоритма минимакс
+- Реализация списка завершенных игр и таблицы лидеров
+- Реализация Frontend на HTML и JavaScript
+
+### 🔹 [Expense-Tracker](https://github.com/brittaju/Expense-Tracker)
+> Реализация REST API для учёта личных расходов
+- **Stack:** Java, Spring Boot, PostgreSQL, Hibernate, JWT, Swagger
+- JWT-аутентификация и авторизация
+- CRUD-операции на базе Spring Data JPA и Hibernate
+- Интеграция Swagger UI для тестирования и отладки
+
+---
+
+## 📫 Contact
+
+- Email: **blackandrey966@gmail.com**
+- Telegram: [@brittaju](t.me/brittaju)
