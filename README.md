@@ -52,7 +52,7 @@ Java-разработчик, студент Школы 21. Использую д
 
 ### 🔹 [Blue-vs-Pink](https://github.com/brittaju/Blue-vs-Pink)
 > Реализация игры "Крестики и Нолики"
-- **Stack:** Java, Spring Boot, Hibernate, PostgreSQL, Spring Security
+- **Stack:** Java, JavaScript, HTML, Spring Boot, Hibernate, PostgreSQL, Spring Security
 - Регистрация и аутентификация пользователей (JWT)
 - Игра против ИИ на основе алгоритма "Минимакс"
 - Игра между двумя пользователями
