@@ -1,16 +1,25 @@
 # 👋 Меня зовут Андрей
 
-🎯 Java-разработчик, студент Школы 21. Разрабатываю backend на Java: Spring Boot, Hibernate, PostgreSQL, REST API. В рамках командных проектов Школы 21 работал по Git-flow с code review. Придерживаюсь принципов SOLID и чистого кода. Быстро разбираюсь в незнакомых технологиях, нацелен на рост в сильной команде.
+Java-разработчик, студент Школы 21. Использую для разработки актуальные технологии (см. ниже "Tech Stack"). В рамках командных проектов Школы 21 работал по Git-flow с code review. Придерживаюсь принципов SOLID и чистого кода. Быстро разбираюсь в незнакомых технологиях, нацелен на рост в сильной команде.
 
 ---
 
 ## 🚀 Tech Stack
 
-- ☕ **Java, C**
-- 🧱 **Spring Boot, Spring MVC, Spring Security, Spring Data**
-- 🗄️ **PostgreSQL, MySQL**
-- 📦 **Maven, Gradle**
-- ⚙️ **CI/CD: GitHub Actions, GitLab CI**
+- **Java**
+- **C**
+- **SQL, PostgreSQL**
+- **Maven, Gradle**
+- **Spring, Spring Boot**
+- **Spring Data JPA, Hibernate**
+- **Spring Data Redis**
+- **Spring Kafka**
+- **Spring Security**
+- **Spring Validation**
+- **Springdoc OpenAPI, Swagger UI**
+- **Postman**
+- **Git**
+- **Docker**
 
 ---
 
