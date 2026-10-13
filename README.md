@@ -23,23 +23,40 @@ Java-разработчик, студент Школы 21. Использую д
 
 ---
 
-## 📂 Projects
+## 📂 Projects 
 
-### 🔹 [Blue-vs-Pink](https://github.com/brittaju/Blue-vs-Pink)
-> Реализация REST API для игры против ИИ или другого человека
-- **Stack:** Java, JavaScript, HTML, Spring Boot, PostgreSQL, Hibernate, JWT
-- JWT-аутентификация и авторизация
-- CRUD-операции на базе Spring Data JPA и Hibernate
-- Реализация игры против ИИ с помощью алгоритма минимакс
-- Реализация списка завершенных игр и таблицы лидеров
-- Реализация Frontend на HTML и JavaScript
+### 🔹 [Mini-Delivery-Service](https://github.com/brittaju/Mini-Delivery-Service)
+> Реализация микросервисов заказа, оплаты и доставки еды, связанных между собой с помощью REST API и Event-driven
+- **Stack:** Java, Spring Boot, Hibernate, PostgreSQL, Kafka, Swagger UI
+- Создание, получение и оплата заказа
+- Создание платежа заказа
+- Назначение доставки заказа
+- Взаимодействие между сервисом заказа и оплаты с помощью REST API
+- Взаимодействие между сервисом заказа и доставки с помощью Kafka
+
+### 🔹 [Reservation-Service](https://github.com/brittaju/Reservation-Service)
+> Реализация REST API для бронирования комнат
+- **Stack:** Java, Spring Boot, Hibernate, PostgreSQL, Redis, Spring Validation, Swagger UI
+- Создание, обновление, отмена и подтверждение бронирования
+- Проверка доступности бронирования
+- Получение списка бронирований
 
 ### 🔹 [Expense-Tracker](https://github.com/brittaju/Expense-Tracker)
-> Реализация REST API для учёта личных расходов
-- **Stack:** Java, Spring Boot, PostgreSQL, Hibernate, JWT, Swagger
-- JWT-аутентификация и авторизация
-- CRUD-операции на базе Spring Data JPA и Hibernate
-- Интеграция Swagger UI для тестирования и отладки
+> Реализация REST API для учёта личных расходов и доходов
+- **Stack:** Java, Spring Boot, Hibernate, PostgreSQL, Spring Security, Swagger UI
+- Регистрация и аутентификация пользователей (JWT)
+- Добавление, обновление и удаление расходов
+- Добавление, обновление и удаление доходов
+- Получение списка расходов
+- Получение списка доходов
+
+### 🔹 [Blue-vs-Pink](https://github.com/brittaju/Blue-vs-Pink)
+> Реализация игры "Крестики и Нолики"
+- **Stack:** Java, Spring Boot, Hibernate, PostgreSQL, Spring Security, Swagger UI
+- Регистрация и аутентификация пользователей (JWT)
+- Игра против ИИ на основе алгоритма "Минимакс"
+- Игра между двумя пользователями
+- Просмотр истории игр и списка лидеров
 
 ---
 
