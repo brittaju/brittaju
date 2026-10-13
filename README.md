@@ -26,7 +26,7 @@ Java-разработчик, студент Школы 21. Использую д
 ## 📂 Projects 
 
 ### 🔹 [Mini-Delivery-Service](https://github.com/brittaju/Mini-Delivery-Service)
-> Реализация микросервисов заказа, оплаты и доставки еды, связанных между собой с помощью REST API и Event-driven
+> Реализация микросервисов заказа, оплаты и доставки еды, связанных между собой с помощью REST API и Kafka
 - **Stack:** Java, Spring Boot, Hibernate, PostgreSQL, Kafka, Swagger UI
 - Создание, получение и оплата заказа
 - Создание платежа заказа
