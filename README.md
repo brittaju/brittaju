@@ -19,7 +19,9 @@ Java-разработчик, студент Школы 21. Использую д
 - **Springdoc OpenAPI, Swagger UI**
 - **Postman**
 - **Git**
+- **Multithreading**
 - **Docker**
+- **JUnit, Moсkito**
 
 ---
 
