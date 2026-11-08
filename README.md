@@ -16,7 +16,7 @@ Java-разработчик, студент Школы 21. Использую д
 - **Spring Data JPA, Hibernate**
 - **Spring Data Redis**
 - **Spring Kafka**
-- **Spring Security**
+- **Spring Security, OAuth2, JWT**
 - **Spring Validation**
 - **JUnit, Moсkito**
 - **Springdoc OpenAPI, Swagger UI**
@@ -28,6 +28,8 @@ Java-разработчик, студент Школы 21. Использую д
 - **Prometheus**
 - **Grafana**
 - **CI/CD**
+- **Jira, Confluence, Miro**
+- **User Story, Acceptance Criteria**
 
 ---
 
