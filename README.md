@@ -8,6 +8,7 @@ Java-разработчик, студент Школы 21. Использую д
 
 - **Java**
 - **C**
+- **Linux**
 - **SQL, PostgreSQL**
 - **Maven, Gradle**
 - **Spring, Spring Boot**
@@ -16,12 +17,16 @@ Java-разработчик, студент Школы 21. Использую д
 - **Spring Kafka**
 - **Spring Security**
 - **Spring Validation**
+- **JUnit, Moсkito**
 - **Springdoc OpenAPI, Swagger UI**
 - **Postman**
 - **Git**
 - **Multithreading**
 - **Docker**
-- **JUnit, Moсkito**
+- **Kubernetes**
+- **Prometheus**
+- **Grafana**
+- **CI/CD**
 
 ---
 
