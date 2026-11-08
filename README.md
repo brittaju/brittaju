@@ -8,6 +8,7 @@ Java-разработчик, студент Школы 21. Использую д
 
 - **Java**
 - **C**
+- **Python**
 - **Linux**
 - **SQL, PostgreSQL**
 - **Maven, Gradle**
