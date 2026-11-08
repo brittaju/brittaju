@@ -29,7 +29,7 @@ Java-разработчик, студент Школы 21. Использую д
 - **Grafana**
 - **CI/CD**
 - **Jira, Confluence, Miro**
-- **User Story, Acceptance Criteria**
+- **User Story, Acceptance Criteria, Use Case**
 - **BPMN 2.0**
 
 ---
