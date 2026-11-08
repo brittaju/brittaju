@@ -30,6 +30,7 @@ Java-разработчик, студент Школы 21. Использую д
 - **CI/CD**
 - **Jira, Confluence, Miro**
 - **User Story, Acceptance Criteria**
+- **BPMN 2.0**
 
 ---
 
